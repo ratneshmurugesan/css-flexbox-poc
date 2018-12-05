@@ -1,0 +1,26 @@
+{
+  "name": "ratneshmurugesan.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ratneshmurugesan/ratneshmurugesan.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ratneshmurugesan/ratneshmurugesan.github.io/issues"
+  },
+  "homepage": "https://ratneshmurugesan.github.io/",
+  "devDependencies": {
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "webpack": "^4.25.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
